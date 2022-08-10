@@ -1,0 +1,86 @@
+body {
+    background-color: #777;
+}
+
+.container {
+    width: 920px;
+    margin: 20px auto 0px auto;
+}
+
+.container header {
+    text-align: center;
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 30px 0;
+}
+
+.container nav {
+    text-align: center;
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 30px 0;
+    margin: 10px 0;
+}
+
+.container section {
+    float: left;
+    text-align: center;
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 20px;
+    height: 250px;
+    width: 400px;
+}
+
+.container aside {
+    float: left;
+    text-align: center;
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 20px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    height: 250px;
+    width: 400px;
+    
+}
+
+.container article {
+    background-color: #777;
+    margin-top: 20px;
+    color: #fff;
+    padding: 15px;
+
+}
+
+.container section h1 {
+    background-color: #ebebeb;
+    color: #777;
+    padding: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.container section article p {
+    margin-top: 10px;
+    background-color: #ebebeb;
+    color: #777;
+    padding: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+
+}
+
+.container footer {
+    clear: both;
+    text-align: center;
+    color: #777;
+    background-color: #ebebeb;
+    font-size: 18px;
+    padding: 30px 0;
+    margin: 10px 0;
+}
